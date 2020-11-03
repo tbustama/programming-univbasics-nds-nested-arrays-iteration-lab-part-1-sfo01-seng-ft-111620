@@ -10,3 +10,4 @@ def find_even_values(src)
     end
   end
 end
+find_even_values
